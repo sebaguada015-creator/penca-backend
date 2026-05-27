@@ -1,0 +1,7 @@
+{
+  "name": "penca-brada-backend",
+  "version": "1.0.0",
+  "description": "Backend de la Penca Brada Barber - Mundial 2026",
+  "private": true,
+  "type": "module"
+}
